@@ -1,0 +1,30 @@
+@model Flower
+
+@{
+    ViewData["Title"] = "Thank You";
+}
+
+<h1 class="text-center">Thank You!</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Flower Name</th>
+            <th>Flower Type</th>
+            <th>Flower Price</th>
+            <th>Flower Color</th>
+            <th>Flower Scent</th>
+            <th>Avaliable Quantity</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.PlantName</td>
+            <td>@Model.PlantType</td>
+            <td>@Model.Price</td>
+            <td>@Model.FlowerColor</td>
+            <td>@Model.Scent</td>
+            <td>@Model.QuantityAvailable</td>
+        </tr>
+    </tbody>
+
+</table>

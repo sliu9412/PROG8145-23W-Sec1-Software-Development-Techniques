@@ -1,0 +1,40 @@
+@page
+@model PersonAddedModel
+@{
+    ViewData["Title"] = "Pserson Added";
+}
+
+
+<h1>Person Added</h1>
+<table class="table" style="max-width: 500px">
+    <tbody>
+        <tr>
+            <td><b>First Name: </b></td>
+            <td>@Model.person.First_Name</td>
+        </tr>
+        <tr>
+            <td><b>Last Name: </b></td>
+            <td>@Model.person.Last_Name</td>
+        </tr>
+        <tr>
+            <td><b>Birth Date: </b></td>
+            <td>@Model.person.Date_of_Birth.ToString("yyyy-MM-dd")</td>
+        </tr>
+        <tr>
+            <td><b>Address: </b></td>
+            <td>@Model.person.Address</td>
+        </tr>
+        <tr>
+            <td><b>City: </b></td>
+            <td>@Model.person.City</td>
+        </tr>
+        <tr>
+            <td><b>Country: </b></td>
+            <td>@Model.person.Country</td>
+        </tr>
+        <tr>
+            <td><b>Province: </b></td>
+            <td>@Model.person.Province</td>
+        </tr>
+    </tbody>
+</table>

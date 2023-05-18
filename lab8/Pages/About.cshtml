@@ -1,0 +1,16 @@
+@page
+@model AboutModel
+@{
+    var student = new Student() { name = "Siyu Liu", studentnumber = 8859412};
+    ViewData["title"] = $"Lab8-{student.name}";
+}
+
+<div>
+    <h1 class="display-4 text-center">About Myself</h1>
+    <h2>My Hobbies</h2>
+    <p>I am a beginning programmer named Siyu Liu, who has been training for 3 months. I enjoy singing, dancing, rapping, and playing basketball.</p>
+    <h2>My Profile</h2>
+    <div class="text-center mb-5">
+        <img class="text-center" src="images/my profile.jpg" alt="my profile">
+    </div>
+</div>

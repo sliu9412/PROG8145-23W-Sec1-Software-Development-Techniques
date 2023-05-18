@@ -1,0 +1,15 @@
+﻿@page
+@model IndexModel
+@{
+    var student = new Student() { 
+        name = "Siyu Liu", 
+        studentnumber = 8859412
+    };
+    ViewData["Title"] = $"Home page - {student.name}";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Lab8</h1>
+    <h2>Student Name: @student.name</h2>
+    <h2>Student Number: @student.studentnumber</h2>
+</div>

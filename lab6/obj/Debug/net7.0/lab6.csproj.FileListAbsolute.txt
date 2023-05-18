@@ -1,0 +1,15 @@
+E:\projects\softwareDevelopment\lab6\bin\Debug\net7.0\lab6.exe
+E:\projects\softwareDevelopment\lab6\bin\Debug\net7.0\lab6.deps.json
+E:\projects\softwareDevelopment\lab6\bin\Debug\net7.0\lab6.runtimeconfig.json
+E:\projects\softwareDevelopment\lab6\bin\Debug\net7.0\lab6.dll
+E:\projects\softwareDevelopment\lab6\bin\Debug\net7.0\lab6.pdb
+E:\projects\softwareDevelopment\lab6\obj\Debug\net7.0\lab6.csproj.AssemblyReference.cache
+E:\projects\softwareDevelopment\lab6\obj\Debug\net7.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\softwareDevelopment\lab6\obj\Debug\net7.0\lab6.AssemblyInfoInputs.cache
+E:\projects\softwareDevelopment\lab6\obj\Debug\net7.0\lab6.AssemblyInfo.cs
+E:\projects\softwareDevelopment\lab6\obj\Debug\net7.0\lab6.csproj.CoreCompileInputs.cache
+E:\projects\softwareDevelopment\lab6\obj\Debug\net7.0\lab6.dll
+E:\projects\softwareDevelopment\lab6\obj\Debug\net7.0\refint\lab6.dll
+E:\projects\softwareDevelopment\lab6\obj\Debug\net7.0\lab6.pdb
+E:\projects\softwareDevelopment\lab6\obj\Debug\net7.0\lab6.genruntimeconfig.cache
+E:\projects\softwareDevelopment\lab6\obj\Debug\net7.0\ref\lab6.dll

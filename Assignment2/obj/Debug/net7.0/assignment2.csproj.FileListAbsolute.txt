@@ -1,0 +1,15 @@
+E:\projects\softwareDevelopment\assignment2\bin\Debug\net7.0\assignment2.exe
+E:\projects\softwareDevelopment\assignment2\bin\Debug\net7.0\assignment2.deps.json
+E:\projects\softwareDevelopment\assignment2\bin\Debug\net7.0\assignment2.runtimeconfig.json
+E:\projects\softwareDevelopment\assignment2\bin\Debug\net7.0\assignment2.dll
+E:\projects\softwareDevelopment\assignment2\bin\Debug\net7.0\assignment2.pdb
+E:\projects\softwareDevelopment\assignment2\obj\Debug\net7.0\assignment2.csproj.AssemblyReference.cache
+E:\projects\softwareDevelopment\assignment2\obj\Debug\net7.0\assignment2.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\softwareDevelopment\assignment2\obj\Debug\net7.0\assignment2.AssemblyInfoInputs.cache
+E:\projects\softwareDevelopment\assignment2\obj\Debug\net7.0\assignment2.AssemblyInfo.cs
+E:\projects\softwareDevelopment\assignment2\obj\Debug\net7.0\assignment2.csproj.CoreCompileInputs.cache
+E:\projects\softwareDevelopment\assignment2\obj\Debug\net7.0\assignment2.dll
+E:\projects\softwareDevelopment\assignment2\obj\Debug\net7.0\refint\assignment2.dll
+E:\projects\softwareDevelopment\assignment2\obj\Debug\net7.0\assignment2.pdb
+E:\projects\softwareDevelopment\assignment2\obj\Debug\net7.0\assignment2.genruntimeconfig.cache
+E:\projects\softwareDevelopment\assignment2\obj\Debug\net7.0\ref\assignment2.dll

@@ -1,0 +1,15 @@
+C:\doc\Midterm_W23_S1\bin\Debug\net7.0\Midterm_W23_S1.exe
+C:\doc\Midterm_W23_S1\bin\Debug\net7.0\Midterm_W23_S1.deps.json
+C:\doc\Midterm_W23_S1\bin\Debug\net7.0\Midterm_W23_S1.runtimeconfig.json
+C:\doc\Midterm_W23_S1\bin\Debug\net7.0\Midterm_W23_S1.dll
+C:\doc\Midterm_W23_S1\bin\Debug\net7.0\Midterm_W23_S1.pdb
+C:\doc\Midterm_W23_S1\obj\Debug\net7.0\Midterm_W23_S1.csproj.AssemblyReference.cache
+C:\doc\Midterm_W23_S1\obj\Debug\net7.0\Midterm_W23_S1.GeneratedMSBuildEditorConfig.editorconfig
+C:\doc\Midterm_W23_S1\obj\Debug\net7.0\Midterm_W23_S1.AssemblyInfoInputs.cache
+C:\doc\Midterm_W23_S1\obj\Debug\net7.0\Midterm_W23_S1.AssemblyInfo.cs
+C:\doc\Midterm_W23_S1\obj\Debug\net7.0\Midterm_W23_S1.csproj.CoreCompileInputs.cache
+C:\doc\Midterm_W23_S1\obj\Debug\net7.0\Midterm_W23_S1.dll
+C:\doc\Midterm_W23_S1\obj\Debug\net7.0\refint\Midterm_W23_S1.dll
+C:\doc\Midterm_W23_S1\obj\Debug\net7.0\Midterm_W23_S1.pdb
+C:\doc\Midterm_W23_S1\obj\Debug\net7.0\Midterm_W23_S1.genruntimeconfig.cache
+C:\doc\Midterm_W23_S1\obj\Debug\net7.0\ref\Midterm_W23_S1.dll

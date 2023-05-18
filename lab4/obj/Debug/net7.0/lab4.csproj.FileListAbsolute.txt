@@ -1,0 +1,15 @@
+E:\projects\softwareDevelopment\lab4\bin\Debug\net7.0\lab4.exe
+E:\projects\softwareDevelopment\lab4\bin\Debug\net7.0\lab4.deps.json
+E:\projects\softwareDevelopment\lab4\bin\Debug\net7.0\lab4.runtimeconfig.json
+E:\projects\softwareDevelopment\lab4\bin\Debug\net7.0\lab4.dll
+E:\projects\softwareDevelopment\lab4\bin\Debug\net7.0\lab4.pdb
+E:\projects\softwareDevelopment\lab4\obj\Debug\net7.0\lab4.csproj.AssemblyReference.cache
+E:\projects\softwareDevelopment\lab4\obj\Debug\net7.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\softwareDevelopment\lab4\obj\Debug\net7.0\lab4.AssemblyInfoInputs.cache
+E:\projects\softwareDevelopment\lab4\obj\Debug\net7.0\lab4.AssemblyInfo.cs
+E:\projects\softwareDevelopment\lab4\obj\Debug\net7.0\lab4.csproj.CoreCompileInputs.cache
+E:\projects\softwareDevelopment\lab4\obj\Debug\net7.0\lab4.dll
+E:\projects\softwareDevelopment\lab4\obj\Debug\net7.0\refint\lab4.dll
+E:\projects\softwareDevelopment\lab4\obj\Debug\net7.0\lab4.pdb
+E:\projects\softwareDevelopment\lab4\obj\Debug\net7.0\lab4.genruntimeconfig.cache
+E:\projects\softwareDevelopment\lab4\obj\Debug\net7.0\ref\lab4.dll

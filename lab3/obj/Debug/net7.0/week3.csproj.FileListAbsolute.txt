@@ -1,0 +1,15 @@
+E:\projects\softwareDevelopment\week3\bin\Debug\net7.0\week3.exe
+E:\projects\softwareDevelopment\week3\bin\Debug\net7.0\week3.deps.json
+E:\projects\softwareDevelopment\week3\bin\Debug\net7.0\week3.runtimeconfig.json
+E:\projects\softwareDevelopment\week3\bin\Debug\net7.0\week3.dll
+E:\projects\softwareDevelopment\week3\bin\Debug\net7.0\week3.pdb
+E:\projects\softwareDevelopment\week3\obj\Debug\net7.0\week3.csproj.AssemblyReference.cache
+E:\projects\softwareDevelopment\week3\obj\Debug\net7.0\week3.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\softwareDevelopment\week3\obj\Debug\net7.0\week3.AssemblyInfoInputs.cache
+E:\projects\softwareDevelopment\week3\obj\Debug\net7.0\week3.AssemblyInfo.cs
+E:\projects\softwareDevelopment\week3\obj\Debug\net7.0\week3.csproj.CoreCompileInputs.cache
+E:\projects\softwareDevelopment\week3\obj\Debug\net7.0\week3.dll
+E:\projects\softwareDevelopment\week3\obj\Debug\net7.0\refint\week3.dll
+E:\projects\softwareDevelopment\week3\obj\Debug\net7.0\week3.pdb
+E:\projects\softwareDevelopment\week3\obj\Debug\net7.0\week3.genruntimeconfig.cache
+E:\projects\softwareDevelopment\week3\obj\Debug\net7.0\ref\week3.dll

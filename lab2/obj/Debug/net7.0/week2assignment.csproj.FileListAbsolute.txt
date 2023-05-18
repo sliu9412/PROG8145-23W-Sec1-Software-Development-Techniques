@@ -1,0 +1,15 @@
+E:\projects\softwareDevelopment\week2\assignment\week2assignment\bin\Debug\net7.0\week2assignment.exe
+E:\projects\softwareDevelopment\week2\assignment\week2assignment\bin\Debug\net7.0\week2assignment.deps.json
+E:\projects\softwareDevelopment\week2\assignment\week2assignment\bin\Debug\net7.0\week2assignment.runtimeconfig.json
+E:\projects\softwareDevelopment\week2\assignment\week2assignment\bin\Debug\net7.0\week2assignment.dll
+E:\projects\softwareDevelopment\week2\assignment\week2assignment\bin\Debug\net7.0\week2assignment.pdb
+E:\projects\softwareDevelopment\week2\assignment\week2assignment\obj\Debug\net7.0\week2assignment.csproj.AssemblyReference.cache
+E:\projects\softwareDevelopment\week2\assignment\week2assignment\obj\Debug\net7.0\week2assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\softwareDevelopment\week2\assignment\week2assignment\obj\Debug\net7.0\week2assignment.AssemblyInfoInputs.cache
+E:\projects\softwareDevelopment\week2\assignment\week2assignment\obj\Debug\net7.0\week2assignment.AssemblyInfo.cs
+E:\projects\softwareDevelopment\week2\assignment\week2assignment\obj\Debug\net7.0\week2assignment.csproj.CoreCompileInputs.cache
+E:\projects\softwareDevelopment\week2\assignment\week2assignment\obj\Debug\net7.0\week2assignment.dll
+E:\projects\softwareDevelopment\week2\assignment\week2assignment\obj\Debug\net7.0\refint\week2assignment.dll
+E:\projects\softwareDevelopment\week2\assignment\week2assignment\obj\Debug\net7.0\week2assignment.pdb
+E:\projects\softwareDevelopment\week2\assignment\week2assignment\obj\Debug\net7.0\week2assignment.genruntimeconfig.cache
+E:\projects\softwareDevelopment\week2\assignment\week2assignment\obj\Debug\net7.0\ref\week2assignment.dll

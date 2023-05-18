@@ -1,0 +1,39 @@
+@model Person
+@{
+    ViewData["Title"] = "PersonInfo";
+}
+
+<div>
+  <h1>Person Information</h1>
+  <form method="post" style="max-width: 750px">
+    <div class="mb-3">
+      <label asp-for="@Model.First_Name" class="form-label">First Name</label>
+      <input asp-for="@Model.First_Name" type="text" class="form-control" required/>
+    </div>
+    <div class="mb-3">
+      <label asp-for="@Model.Last_Name" class="form-label">Last Name</label>
+      <input asp-for="@Model.Last_Name" type="text" class="form-control" required/>
+    </div>
+    <div class="mb-3">
+      <label asp-for="@Model.Date_of_Birth" class="form-label">BirthDate</label>
+      <input asp-for="@Model.Date_of_Birth" value="yyyy-mm-dd"  type="date" class="form-control" required/>
+    </div>
+    <div class="mb-3">
+      <label asp-for="@Model.Address" class="form-label">Address</label>
+      <input asp-for="@Model.Address" type="text" class="form-control" required/>
+    </div>
+    <div class="mb-3">
+      <label asp-for="@Model.City" class="form-label">City</label>
+      <input asp-for="@Model.City" type="text" class="form-control" required/>
+    </div>
+    <div class="mb-3">
+      <label asp-for="@Model.Country" class="form-label">Country</label>
+      <input asp-for="@Model.Country" type="text" class="form-control" required/>
+    </div>
+    <div class="mb-3">
+      <label asp-for="@Model.Province" class="form-label">Province</label>
+      <input asp-for="@Model.Province" type="text" class="form-control" required/>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+</div>

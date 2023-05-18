@@ -1,0 +1,15 @@
+E:\projects\softwareDevelopment\Assignment1\program2\bin\Debug\net7.0\program2.exe
+E:\projects\softwareDevelopment\Assignment1\program2\bin\Debug\net7.0\program2.deps.json
+E:\projects\softwareDevelopment\Assignment1\program2\bin\Debug\net7.0\program2.runtimeconfig.json
+E:\projects\softwareDevelopment\Assignment1\program2\bin\Debug\net7.0\program2.dll
+E:\projects\softwareDevelopment\Assignment1\program2\bin\Debug\net7.0\program2.pdb
+E:\projects\softwareDevelopment\Assignment1\program2\obj\Debug\net7.0\program2.csproj.AssemblyReference.cache
+E:\projects\softwareDevelopment\Assignment1\program2\obj\Debug\net7.0\program2.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\softwareDevelopment\Assignment1\program2\obj\Debug\net7.0\program2.AssemblyInfoInputs.cache
+E:\projects\softwareDevelopment\Assignment1\program2\obj\Debug\net7.0\program2.AssemblyInfo.cs
+E:\projects\softwareDevelopment\Assignment1\program2\obj\Debug\net7.0\program2.csproj.CoreCompileInputs.cache
+E:\projects\softwareDevelopment\Assignment1\program2\obj\Debug\net7.0\program2.dll
+E:\projects\softwareDevelopment\Assignment1\program2\obj\Debug\net7.0\refint\program2.dll
+E:\projects\softwareDevelopment\Assignment1\program2\obj\Debug\net7.0\program2.pdb
+E:\projects\softwareDevelopment\Assignment1\program2\obj\Debug\net7.0\program2.genruntimeconfig.cache
+E:\projects\softwareDevelopment\Assignment1\program2\obj\Debug\net7.0\ref\program2.dll

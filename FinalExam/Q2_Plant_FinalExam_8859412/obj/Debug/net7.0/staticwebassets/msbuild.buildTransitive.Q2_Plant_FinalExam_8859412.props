@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Q2_Plant_FinalExam_8859412.props" />
+</Project>

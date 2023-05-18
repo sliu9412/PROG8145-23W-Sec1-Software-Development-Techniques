@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Midterm_W23_S1/1.0.0": {
+        "runtime": {
+          "Midterm_W23_S1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Midterm_W23_S1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
